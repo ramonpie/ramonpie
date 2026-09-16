@@ -35,6 +35,8 @@ Hi, I'm [Ramón Pierola](https://envoy1084.xyz.com/), a Systems analyst and Web3
 - 🌐 Learn More at: [envoy1084.xyz](https://envoy1084.xyz)
 
 ## 📊 Github Stats
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ramonpie)](https://github.com/Ramonpie/github-readme-stats)
+
 
 <table><tr><td valign="top" width="50%">
 
