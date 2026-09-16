@@ -29,10 +29,8 @@ Hi, I'm [Ramón Pierola](https://envoy1084.xyz.com/), a Systems analyst and Web3
 </h2>
 
 - ⛴️ I love learning new technologies.
-- 👨🏻‍💻 I love to participate in hackathons.
-- 📚 I also write technical articles on my [blog](https://blog.envoy1084.xyz).
-- 📫 Reach me at: [vedantchainani1084@gmail.com](mailto:vedant@envoy1084.xyz)
-- 🌐 Learn More at: [envoy1084.xyz](https://envoy1084.xyz)
+- 📫 Reach me at: [ramon.pierola@gmail.com](mailto:ramon.pierola@gmail.com)
+- 🌐 Learn More at: [https://github.com/ramonpie](https://github.com/ramonpie)
 
 ## 📊 Github Stats
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ramonpie)](https://github.com/Ramonpie/github-readme-stats)
