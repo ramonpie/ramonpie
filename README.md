@@ -31,9 +31,9 @@ Hi, I'm [Ramón Pierola](https://envoy1084.xyz.com/), a Systems analyst and Web3
 
 ## 📊 Github Stats
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ramonpie)](https://github.com/ramonpie/github-readme-stats)
-
 <br>
-<img src="https://raw.githubusercontent.com/ramonpie/ramonpie/output/metrics.plugin.overview.svg">
+![Ramon's GitHub stats](https://github-readme-stats.vercel.app/api?username=ramonpie&hide=contribs,prs)
+<br>
 
 <table><tr><td valign="top" width="50%">
 
