@@ -66,6 +66,10 @@ Hi, I'm [Ramón Pierola](https://envoy1084.xyz.com/), a Systems analyst and Web3
     <img alt="CSS" src="https://img.shields.io/badge/CSS%20-%231572B6.svg?style=plastic&logo=css3&logoColor=white">
   </a> 
   &emsp;
+  <a href="https://getbootstrap.com/docs/5.0/getting-started/introduction/" target="_blank"> 
+     <img alt="Bootstrap" src="https://img.shields.io/badge/Bootstrap%20-%231572B6.svg?style=plastic&logo=bootstrap&logoColor=white">
+   </a>
+  &emsp;
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> 
      <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript%20-%23F7DF1E.svg?style=plastic&logo=javascript&logoColor=black">
    </a>
@@ -84,7 +88,8 @@ Hi, I'm [Ramón Pierola](https://envoy1084.xyz.com/), a Systems analyst and Web3
     <a href="#"><img src="https://img.shields.io/badge/PostgreSQL-%234479A1.svg?&style=plastic&logo=postgreSQL&logoColor=white"/></a>
   &emsp;
     <a href="#"><img src="https://img.shields.io/badge/Postman-%234479A1.svg?&style=plastic&logo=postmanL&logoColor=white"/></a>
-
+  &emsp;
+    <a href="#"><img alt="Node.js" src="https://img.shields.io/badge/node.js-%23181717.svg?style=plastic&logo=node.js&logoColor=white"></a>
 </p>
 
  ### <picture> <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/IDEs.gif?raw=true" width = 50px>  </picture> IDEs
@@ -124,7 +129,7 @@ Hi, I'm [Ramón Pierola](https://envoy1084.xyz.com/), a Systems analyst and Web3
 	
 <p align="center">
     <a href="https://github.com/ramonpie/github-readme-stats">
-	    <img alt="7oSkaaa's Github Stats" src="https://github-readme-stats.vercel.app/api?username=ramonpie&show_icons=true&count_private=true&locale=en&theme=tokyonight&layout=compact" height="230px"/></a>
+	    <img alt="ramonpie's Github Stats" src="https://github-readme-stats.vercel.app/api?username=ramonpie&show_icons=true&count_private=true&locale=en&theme=tokyonight&layout=compact" height="230px"/></a>
 	  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ramonpie&langs_count=10&show_icons=true&locale=en&theme=tokyonight" alt="ramonpie" height="230px"/>
 <br/>
 
@@ -141,11 +146,4 @@ Hi, I'm [Ramón Pierola](https://envoy1084.xyz.com/), a Systems analyst and Web3
  
 </details>
 
-
 </br>
-	
-## 🐍 A Snake Eating my Contributions Graph
-	
-<p align = "center">
-	<img src = "https://github.com/ramonpie/ramonpie/blob/output/github-contribution-grid-snake.svg?" alt = "Snake Game"/>
-</p>
